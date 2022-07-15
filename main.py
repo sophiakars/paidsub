@@ -8,6 +8,7 @@ from db import Database
 
 TOKEN = "5311979121:AAEAqOiCioTdpR_OjSQQqTFWwqVur07tRuM"
 YOOTOKEN = "381764678:TEST:39941"
+APP_URL = "https://paidsub.herokuapp.com/" + TOKEN
 
 logging.basicConfig(level=logging.INFO)
 
